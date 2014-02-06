@@ -3077,6 +3077,7 @@
 				GCC_PREFIX_HEADER = "ReactiveCocoa/ReactiveCocoa-Prefix.pch";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PUBLIC_HEADERS_FOLDER_PATH = include/ReactiveCocoa;
+				SKIP_INSTALL = YES;
 			};
 			name = Test;
 		};
@@ -3187,6 +3188,7 @@
 				GCC_PREFIX_HEADER = "ReactiveCocoa/ReactiveCocoa-Prefix.pch";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PUBLIC_HEADERS_FOLDER_PATH = include/ReactiveCocoa;
+				SKIP_INSTALL = YES;
 			};
 			name = Debug;
 		};
@@ -3197,6 +3199,7 @@
 				GCC_PREFIX_HEADER = "ReactiveCocoa/ReactiveCocoa-Prefix.pch";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PUBLIC_HEADERS_FOLDER_PATH = include/ReactiveCocoa;
+				SKIP_INSTALL = YES;
 			};
 			name = Release;
 		};
@@ -3293,6 +3296,7 @@
 				GCC_PREFIX_HEADER = "ReactiveCocoa/ReactiveCocoa-Prefix.pch";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PUBLIC_HEADERS_FOLDER_PATH = include/ReactiveCocoa;
+				SKIP_INSTALL = YES;
 			};
 			name = Profile;
 		};
